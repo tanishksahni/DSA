@@ -5,10 +5,8 @@ public class Main {
 
         LinkedList myLinkedList = new LinkedList(1);
         myLinkedList.append(2);
-        myLinkedList.getHead();
-        myLinkedList.getTail();
-        myLinkedList.getLength();
-
+        myLinkedList.prepend(11);
         myLinkedList.printList();
+
     }
 }

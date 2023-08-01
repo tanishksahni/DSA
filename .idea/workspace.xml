@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="Workspace">
-      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <workItem from="1689629733083" duration="905000" />
       <workItem from="1689630650025" duration="1438000" />
       <workItem from="1690448670144" duration="2321000" />
-      <workItem from="1690452879132" duration="1788000" />
+      <workItem from="1690452879132" duration="8276000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
