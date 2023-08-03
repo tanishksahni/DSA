@@ -137,5 +137,21 @@ public class LinkedList {
         length --;
         return temp;
     }
+    public void reverse() {
+        // in this method we reverse the linked list - we are not creating a new linked list, we will be reversing the original linkedl ist
+        // here we are flipping the head and tail positions in the linked list
+        Node temp = head;
+        head = tail;
+        tail = temp;
+        // here we need two nodes after and before that moves through the linked list with temp while we reverse a linked list
+        Node after = temp.next;
+        Node before  = null;
+        for (int i = 0 ; i < length; i++) {
+            after = temp.next;
+            temp .next = before;
+            before  = temp;
+            temp = after;
+        }
+    }
 
 }
