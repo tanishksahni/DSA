@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="insert and remove methods in linkedlist">
+    <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="reverse methods in linkedlist">
+      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.datastructures.doublylinkedlist.Main">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.HelloWorld" />
       <module name="DSA" />
@@ -83,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="datastructures.doublylinkedlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.doublylinkedlist.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.doublylinkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.datastructures.doublylinkedlist.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -102,7 +117,7 @@
       <workItem from="1689629733083" duration="905000" />
       <workItem from="1689630650025" duration="1438000" />
       <workItem from="1690448670144" duration="2321000" />
-      <workItem from="1690452879132" duration="12436000" />
+      <workItem from="1690452879132" duration="14795000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
@@ -127,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691041614210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reverse methods in linkedlist">
+      <option name="closed" value="true" />
+      <created>1691042878598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691042878598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +172,7 @@
     <MESSAGE value="Preparing Workspace" />
     <MESSAGE value="Workspace" />
     <MESSAGE value="insert and remove methods in linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert and remove methods in linkedlist" />
+    <MESSAGE value="reverse methods in linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse methods in linkedlist" />
   </component>
 </project>
