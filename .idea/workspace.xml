@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="reverse methods in linkedlist">
-      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2SiRjxQWHtFsAChZ0qLabbJGycH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,16 +48,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/tanishk_sahni/Desktop/Java Projects/DSA",
+    "last_opened_file_path": "/Users/tanishksahni/Desktop/DSA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,6 +123,9 @@
       <workItem from="1689630650025" duration="1438000" />
       <workItem from="1690448670144" duration="2321000" />
       <workItem from="1690452879132" duration="14795000" />
+      <workItem from="1692556177716" duration="142000" />
+      <workItem from="1692766675674" duration="206000" />
+      <workItem from="1692767128514" duration="2378000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
@@ -174,5 +182,9 @@
     <MESSAGE value="insert and remove methods in linkedlist" />
     <MESSAGE value="reverse methods in linkedlist" />
     <option name="LAST_COMMIT_MESSAGE" value="reverse methods in linkedlist" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
