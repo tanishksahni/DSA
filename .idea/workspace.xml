@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="reverse methods in linkedlist">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,7 @@
       <workItem from="1690452879132" duration="14795000" />
       <workItem from="1692556177716" duration="142000" />
       <workItem from="1692766675674" duration="206000" />
-      <workItem from="1692767128514" duration="2378000" />
+      <workItem from="1692767128514" duration="3447000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
