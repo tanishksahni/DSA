@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="reverse methods in linkedlist">
-      <change afterPath="$PROJECT_DIR$/src/Standard_Problems/Arrays/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Standard_Problems/Arrays/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/ZAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Standard_Problems/Arrays/SmallestNumber_productN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +69,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeSum">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.HelloWorld" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.Main" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.*" />
+          <option name="PATTERN" value="datastructures.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.Main" />
+    <configuration name="SmallestNumber_productN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Standard_Problems.Arrays.SmallestNumber_productN" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.linkedlist.*" />
+          <option name="PATTERN" value="Standard_Problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestNumber_productN" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.datastructures.doublylinkedlist.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +163,12 @@
       <workItem from="1692767128514" duration="4846000" />
       <workItem from="1696912716752" duration="890000" />
       <workItem from="1698902931977" duration="441000" />
-      <workItem from="1698903390304" duration="2544000" />
+      <workItem from="1698903390304" duration="3754000" />
+      <workItem from="1699026035029" duration="1205000" />
+      <workItem from="1700974628225" duration="205000" />
+      <workItem from="1701781268687" duration="881000" />
+      <workItem from="1701844016214" duration="528000" />
+      <workItem from="1701847002220" duration="5140000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
