@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="bc2b6db5-6ad7-4c19-aa8e-45928d556cee" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SmallestNumber_productN">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.Main" />
       <module name="DSA" />
@@ -164,7 +167,7 @@
       <workItem from="1700974628225" duration="205000" />
       <workItem from="1701781268687" duration="881000" />
       <workItem from="1701844016214" duration="528000" />
-      <workItem from="1701847002220" duration="5473000" />
+      <workItem from="1701847002220" duration="7546000" />
     </task>
     <task id="LOCAL-00001" summary="Preparing Workspace">
       <created>1689627713351</created>
