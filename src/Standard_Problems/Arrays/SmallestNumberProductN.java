@@ -1,7 +1,7 @@
 package Standard_Problems.Arrays;
 import java.util.*;
 
-public class SmallestNumber_productN {
+public class SmallestNumberProductN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
